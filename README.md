@@ -25,15 +25,22 @@ Mastermind is a code-breaking game where you need to guess a secret number. Afte
 
 ## Example
 
-Enter your 4-digit guess: 1234
-+*
+Welcome to the Mastermind game!
 
-Enter your 4-digit guess: 5678
+Enter your 4-digit guess: 1234 <br>
+--**
 
+Enter your 4-digit guess: 5612 <br>
+**++
 
-Enter your 4-digit guess: 9012
--**+
-...
+Enter your 4-digit guess: 7812 <br>
+**++
+
+Enter your 4-digit guess: 9112 <br>
+++++
+
+Congratulations! You found the number in 4 attempts. <br>
+Thank you for playing!
 
 
 ## Author
