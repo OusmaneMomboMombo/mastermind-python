@@ -27,7 +27,9 @@ Mastermind is a code-breaking game where you need to guess a secret number. Afte
 
 Enter your 4-digit guess: 1234
 +*
+
 Enter your 4-digit guess: 5678
+
 
 Enter your 4-digit guess: 9012
 -**+
